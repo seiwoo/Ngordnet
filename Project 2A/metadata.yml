@@ -1,0 +1,12 @@
+---
+:id: 279737729
+:submitters:
+- :name: Seiwoo Lee
+  :email: swlee2025@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-19 07:48:45.988029000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-19 00:48:45.988029000 Z
+:status: processed
+:score: 40.0
