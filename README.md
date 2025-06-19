@@ -1,7 +1,7 @@
-# Ngordnet
+# Ngordnet (UC Berkeley School Project)
 **Programming Language** : Java
 
-Build a browser based tool for exploring the history of word usage in English texts. The Java code will be the back end for this tool, accepting input and generating appropriate output for display.
+Developed a browser-based tool for exploring the historical usage of words in English texts. Designed and implemented the backend functionality in Java to handle user input and generate relevant output for front-end visualization and interaction.
 
 - Both project recieve full grade for high achievement.
   
